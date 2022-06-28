@@ -1,0 +1,14 @@
+.btn
+{
+    height: 80px;
+    width : 80px;
+    background-color: royalblue;
+    color: white;
+    padding: 1px;
+    margin: auto;
+}
+.btn:hover
+{
+    transition: 1s;
+    background-color: darkblue;
+}
